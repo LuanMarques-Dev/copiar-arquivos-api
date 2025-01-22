@@ -75,4 +75,4 @@ const LOG_PATH = path.join(require("os").tmpdir(), "erros.log");
 
 ---
 
-<p align="center">Desenvolvido por Luan Marques</p>
+<p align="center">Desenvolvido por <strong>Luan Marques</strong></p>
