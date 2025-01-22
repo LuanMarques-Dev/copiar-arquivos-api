@@ -42,26 +42,6 @@ const LOG_PATH = path.join(require("os").tmpdir(), "erros.log");
 
 ---
 
-<h2>🚀 Como executar</h2>
-
-<ol>
-  <li>Certifique-se de que o Node.js está instalado em sua máquina.</li>
-  <li>Clone o repositório:</li>
-  <pre>
-  <code>git clone https://github.com/seu-usuario/seu-repositorio.git</code>
-  </pre>
-  <li>Navegue até o diretório do projeto:</li>
-  <pre>
-  <code>cd seu-repositorio</code>
-  </pre>
-  <li>Inicie o monitoramento:</li>
-  <pre>
-  <code>node seu-arquivo.js</code>
-  </pre>
-</ol>
-
----
-
 <h2>📦 Estrutura do Projeto</h2>
 
 <ul>
@@ -92,12 +72,6 @@ const LOG_PATH = path.join(require("os").tmpdir(), "erros.log");
   <li>Arquivos processados com sucesso.</li>
   <li>Exceções e rejeições não tratadas.</li>
 </ul>
-
----
-
-<h2>📂 Licença</h2>
-
-<p>Este projeto está sob a licença <strong>MIT</strong>. Sinta-se livre para usá-lo e modificá-lo.</p>
 
 ---
 
